@@ -9,11 +9,7 @@
     "name": "typicode"
   },
   "publishState": {
-    "form1": {
-      "state": "published"
-    },
-    "form2": {
-      "state": "published"
-    },
+    "form1": true
+    "form2": false
   }
 }
