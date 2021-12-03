@@ -8,5 +8,8 @@
   "profile": {
     "name": "typicode"
   },
-  "publishState": false
+  "publishState": {
+    "form1": "published",
+    "form2": "unpublished"
+  }
 }
